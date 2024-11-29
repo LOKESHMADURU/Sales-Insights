@@ -62,13 +62,13 @@ The Power BI dashboard includes:
 
 ## 🔗 Dashboard Screenshots
 ### 1. Overview of Sales Insights
-![Dashboard 1](./Images/dashboard_1.png)
+![Screenshot](https://github.com/user-attachments/assets/26d510d7-75bb-4b06-b848-a7735042b15e)
 
 ### 2. Regional and Zone-Wise Analysis
-![Dashboard 2](./Images/dashboard_2.png)
+![Screenshot (2)](https://github.com/user-attachments/assets/ce9d6038-f5c6-4188-8432-e043591203ff)
 
 ### 3. Product-Type Sales Breakdown
-![Dashboard 3](./Images/dashboard_3.png)
+![Screenshot (3)](https://github.com/user-attachments/assets/b5938eef-e021-4a2c-bb33-5f409d21004f)
 
 ---
 
